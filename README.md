@@ -10,8 +10,9 @@
 4) [Работа с PostgreSQL. Настройка и масштабирование](http://postgresql.leopard.in.ua/) (рос)
 
 ## Android
-1) [Коматинени — Android 4 для профессионалов (2012)](http://www.yakaboo.ua/pro-android-4.html) (рос)
-2) [Б. Харди, Б. Филлипс — Программирование под Android (Для профессионалов) (2014)](https://rozetka.com.ua/ua/11616434/p11616434/) (рос)
+1) [Курс лекций по архитектуре клиент-серверных Android-приложений](https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U) (рос) та [вихідний код](https://github.com/ArturVasilov/AndroidSchool)
+2) [Коматинени — Android 4 для профессионалов (2012)](http://www.yakaboo.ua/pro-android-4.html) (рос)
+3) [Б. Харди, Б. Филлипс — Программирование под Android (Для профессионалов) (2014)](https://rozetka.com.ua/ua/11616434/p11616434/) (рос)
 
 ## Архітектура та Шаблони проектування
 1) [Роберт Мартин - Чистый код (2010)](https://rozetka.com.ua/ua/6505018/p6505018/) (рос)
