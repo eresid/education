@@ -7,6 +7,7 @@
 1) [Линн Бейли - Изучаем SQL - Head First (2012)](http://www.yakaboo.ua/head-first-sql.html) (рос)
 2) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) (англ)
 3) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (англ)
+4) [Работа с PostgreSQL. Настройка и масштабирование](http://postgresql.leopard.in.ua/) (рос)
 
 ## Android
 1) [Коматинени — Android 4 для профессионалов (2012)](http://www.yakaboo.ua/pro-android-4.html) (рос)
@@ -16,3 +17,15 @@
 1) [Роберт Мартин - Чистый код (2010)](https://rozetka.com.ua/ua/6505018/p6505018/) (рос)
 2) [Фримен Э., Фримен Э. - Паттерны проектирования - HeadFirst (2016)](https://rozetka.com.ua/ua/25950041/p25950041/) (рос)
 3) [Design Patterns in Java Tutorial - Tutorials Point](https://www.tutorialspoint.com/design_pattern/index.htm) (англ)
+
+## Front End
+
+### HTML
+1) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp) (англ)
+
+### CSS
+1) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (англ)
+
+### JavaScript
+1) [Современный учебник Javascript](https://learn.javascript.ru/) (рос)
+2) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (англ)
