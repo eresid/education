@@ -22,10 +22,10 @@
 4) [Gang of Four Design Patterns](http://www.blackwasp.co.uk/gofpatterns.aspx) (англ)
 
 ## Алгоритми
-1) [Олимпиадные задачи](http://acmp.ru/index.asp?main=tasks) рос
+1) [Олимпиадные задачи](http://acmp.ru/index.asp?main=tasks) (рос)
 2) [AlgoList](http://algolist.ru/) (рос)
 3) [MAXimal 145 алгоритмов](http://e-maxx.ru/algo/) (рос)
-3) [Rosetta Code](http://rosettacode.org/) (англ)
+4) [Rosetta Code](http://rosettacode.org/) (англ)
 
 ## iOS & Swift
 1) [Learn Swift in X minutes](https://learnxinyminutes.com/docs/swift/) (англ)
@@ -40,12 +40,15 @@
 
 ### JavaScript
 1) [Современный учебник Javascript](https://learn.javascript.ru/) (рос)
-2) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (англ)
+2) [JavaScript - Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript) (рос/англ)
+3) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (англ)
 
 ## Git
-1) [Devcolibri Git](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (рос)
-1) [Git in 15 minutes](https://try.github.io) (англ)
-2) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
+1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
+2) [GitHowTo](https://githowto.com/uk) (укр)
+3) [Відеокурс] [Devcolibri Git](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (рос)
+4) [Git in 15 minutes](https://try.github.io) (англ)
+5) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
 
 ## Інше
 1) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
