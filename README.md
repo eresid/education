@@ -15,6 +15,9 @@
 1) Курс лекций по архитектуре клиент-серверных Android-приложений (2016) ([рос](https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U)) ([код](https://github.com/ArturVasilov/AndroidSchool))
 2) Коматинени — Android 4 для профессионалов ([англ (2015)](https://www.apress.com/gp/book/9781430246800)) ([рос (2012)](http://www.yakaboo.ua/pro-android-4.html)) ([код](https://github.com/Apress/pro-android-5))
 3) Б. Харди, Б. Филлипс — Программирование под Android (Для профессионалов) ([англ (2017)](https://play.google.com/store/books/details/Bill_Phillips_Android_Programming?id=1igDDgAAQBAJ) ([рос (2013)](https://rozetka.com.ua/ua/11616434/p11616434/)) ([код](http://www.bignerdranch.com/solutions/AndroidProgramming.zip))
+4) [Android Weekly](http://androidweekly.net/) (англ)
+5) [Android Developers Blog](https://android-developers.googleblog.com/) (англ)
+6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (англ)
 
 ## Архітектура, Алгоритми та Шаблони проектування
 1) Роберт Мартин - Чистый код (2008) ([англ](https://play.google.com/store/books/details?id=_i6bDeoCQzsC)) ([рос](https://rozetka.com.ua/ua/6505018/p6505018/))
@@ -30,7 +33,10 @@
 5) [LeetCode](https://leetcode.com) (англ)
 
 ## iOS & Swift
-1) [Learn Swift in X minutes](https://learnxinyminutes.com/docs/swift/) (англ)
+1) [Відеокурс] [Хекслет: Курс «Язык программирования Swift»](https://www.youtube.com/watch?v=cv9h0U9UH64&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=1) (рос)
+2) [Swift Book](https://swiftbook.ru/doc) (рос)
+2) The Swift Programming Language (Swift 4) ([англ](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)) ([ePub](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub))
+3) [Learn Swift in X minutes](https://learnxinyminutes.com/docs/swift/) (англ)
 
 ## Front End
 
