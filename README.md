@@ -34,6 +34,7 @@
 
 ## iOS & Swift
 1) [Відеокурс] [Хекслет: Курс «Язык программирования Swift»](https://www.youtube.com/watch?v=cv9h0U9UH64&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=1) (рос)
+2) [Відеокурс] Основы Swift (2017) ([рос](https://swiftworld.ru/courses/1)) ([torrent від автора](https://rutracker.org/forum/viewtopic.php?t=5486433))
 2) [Swift Book](https://swiftbook.ru/doc) (рос)
 2) The Swift Programming Language (Swift 4) ([англ](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)) ([ePub](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub))
 3) [Learn Swift in X minutes](https://learnxinyminutes.com/docs/swift/) (англ)
