@@ -4,6 +4,15 @@
 3) Bruce Eckel - Thinking in Java: Edition 4 (2006) ([англ](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)) ([рос](https://rozetka.com.ua/ua/21486081/p21486081/)) ([код](http://www.mindviewinc.com/TIJ4/CodeInstructions.html)) - для новачків не підходить в якості першої книги
 4) Java Concurrency in Practice (2006) ([англ](https://play.google.com/store/books/details/Tim_Peierls_Java_Concurrency_in_Practice?id=EK43StEVfJIC)) ([код](http://jcip.net/listings.html))
 
+## Spring
+1) Spring in Action ([англ (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([рос (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([код](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
+2) Pro Spring 5 ([англ (2017)](https://www.apress.com/gp/book/9781484228074)) ([рос (2014)](https://rozetka.com.ua/ua/12512005/p12512005/)) ([код](https://github.com/Apress/pro-spring-5))
+3) Beginning Spring Boot 2 (2017) ([англ](https://www.apress.com/gp/book/9781484229309)) ([код](https://github.com/Apress/beg-spring-boot-2))
+4) [Відеокурс] [S4AA - Сервер для Android приложения](https://www.youtube.com/playlist?list=PLIU76b8Cjem4axtgg9DsrJ1y6tyrW9F2K) (рос)
+5) [Відеокурс] [Spring](https://www.youtube.com/playlist?list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi) (рос)
+6) Spring Framework Documentation ([англ](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
+7) Spring Boot Reference Guide ([англ](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)) ([pdf](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf)) ([epub](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
+
 ## SQL & Бази даних
 1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (рос)
 2) Lynn Beighley - Head First SQL (2007) ([англ](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([рос](http://www.yakaboo.ua/head-first-sql.html)) ([таблиці](http://www.headfirstlabs.com/books/hfsql/))
