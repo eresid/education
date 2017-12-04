@@ -34,12 +34,13 @@
 3) [Design Patterns in Java Tutorial - Tutorials Point](https://www.tutorialspoint.com/design_pattern/index.htm) (англ)
 4) [Gang of Four Design Patterns (2009)](http://www.blackwasp.co.uk/gofpatterns.aspx) (англ)
 
-## Алгоритми та логічні задачі
+## Алгоритми, математика та логічні задачі
 1) [Олимпиадные задачи](http://acmp.ru/index.asp?main=tasks) (рос)
 2) [AlgoList](http://algolist.ru/) (рос)
 3) [MAXimal 145 алгоритмов](http://e-maxx.ru/algo/) (рос)
 4) [Rosetta Code](http://rosettacode.org/) (англ)
 5) [LeetCode](https://leetcode.com) (англ)
+6) [Відеокурс] [Линейная алгебра](https://www.youtube.com/playlist?list=PLwwk4BHih4fg6dz8m2K3R3uvDPC2bwUIR) (рос)
 
 ## iOS & Swift
 1) [Відеокурс] [Хекслет: Курс «Язык программирования Swift»](https://www.youtube.com/watch?v=cv9h0U9UH64&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=1) (рос)
