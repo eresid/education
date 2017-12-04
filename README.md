@@ -28,13 +28,13 @@
 5) [Android Developers Blog](https://android-developers.googleblog.com/) (англ)
 6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (англ)
 
-## Архітектура, Алгоритми та Шаблони проектування
+## Архітектура та Шаблони проектування
 1) Robert C. Martin - Clean Code (2008) ([англ](https://play.google.com/store/books/details?id=_i6bDeoCQzsC)) ([рос](https://rozetka.com.ua/ua/6505018/p6505018/))
 2)  E.Freeman, E.Robson, B.Bates, K.Sierra - Head First Design Patterns (2004) ([англ](https://play.google.com/store/books/details/Eric_Freeman_Head_First_Design_Patterns?id=NXIrAQAAQBAJ)) ([рос](https://rozetka.com.ua/ua/25950041/p25950041/))
 3) [Design Patterns in Java Tutorial - Tutorials Point](https://www.tutorialspoint.com/design_pattern/index.htm) (англ)
 4) [Gang of Four Design Patterns (2009)](http://www.blackwasp.co.uk/gofpatterns.aspx) (англ)
 
-## Алгоритми
+## Алгоритми та логічні задачі
 1) [Олимпиадные задачи](http://acmp.ru/index.asp?main=tasks) (рос)
 2) [AlgoList](http://algolist.ru/) (рос)
 3) [MAXimal 145 алгоритмов](http://e-maxx.ru/algo/) (рос)
