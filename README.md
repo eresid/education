@@ -8,10 +8,11 @@
 1) Spring in Action ([англ (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([рос (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([код](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
 2) Pro Spring 5 ([англ (2017)](https://www.apress.com/gp/book/9781484228074)) ([рос (2014)](https://rozetka.com.ua/ua/12512005/p12512005/)) ([код](https://github.com/Apress/pro-spring-5))
 3) Beginning Spring Boot 2 (2017) ([англ](https://www.apress.com/gp/book/9781484229309)) ([код](https://github.com/Apress/beg-spring-boot-2))
-4) [Відеокурс] [S4AA - Сервер для Android приложения](https://www.youtube.com/playlist?list=PLIU76b8Cjem4axtgg9DsrJ1y6tyrW9F2K) (рос)
+4) [Відеокурс] [S4AA - Сервер для Android приложения (Devcolibri, 2016)](https://www.youtube.com/playlist?list=PLIU76b8Cjem4axtgg9DsrJ1y6tyrW9F2K) (рос)
 5) [Відеокурс] [Spring](https://www.youtube.com/playlist?list=PLwwk4BHih4fho6gmaAwdHYZ6QQq0aE7Zi) (рос)
 6) Spring Framework Documentation ([англ](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
 7) Spring Boot Reference Guide ([англ](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)) ([pdf](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf)) ([epub](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
+8) [Відеокурс] [Базовый курс по JDBC (Devcolibri, 2014)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2) (рос)
 
 ## SQL & Бази даних
 1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (рос)
@@ -68,7 +69,7 @@
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
 2) [GitHowTo](https://githowto.com/uk) (укр)
-3) [Відеокурс] [Devcolibri Git (2017)](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (рос)
+3) [Відеокурс] [Базовый курс по Git (Devcolibri, 2017)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (рос)
 4) [Git in 15 minutes](https://try.github.io) (англ)
 5) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
 
