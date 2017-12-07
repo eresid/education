@@ -13,6 +13,13 @@
 6) Spring Framework Documentation ([англ](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
 7) Spring Boot Reference Guide ([англ](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)) ([pdf](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf)) ([epub](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
 8) [Відеокурс] [Базовый курс по JDBC (Devcolibri, 2014)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2) (рос)
+9) [Відеокурс] [Spring Boot на практике](https://www.youtube.com/playlist?list=PLaWfw53gNyzaDTEmrlCCj1jjqr6770Nnp) (рос)
+10) [Відеокурс] [Java+JDBC+Hibernate+Spring Data JPA](https://www.youtube.com/playlist?list=PLzjEWSim5GogAlVDQXyTkp5j8MpWKtvov) (рос)
+
+## Spring утиліти та бібліотеки
+1) [MapStruct](http://mapstruct.org/) ([приклади](https://github.com/mapstruct/mapstruct-examples)) - генератор коду, який допомагає перетворювати дані з одних об'єктів в інші
+2) [Project Lombok](https://projectlombok.org/) - генератор коду, який допомагає зменшити кількість шаблонного коду
+3) [Liquibase](http://www.liquibase.org/) - організація міграцій БД
 
 ## SQL & Бази даних
 1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (рос)
