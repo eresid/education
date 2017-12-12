@@ -35,6 +35,7 @@
 4) [Android Weekly](http://androidweekly.net/) (англ)
 5) [Android Developers Blog](https://android-developers.googleblog.com/) (англ)
 6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (англ)
+7) [Стаття] Multi-Threading Like a Boss in Android With RxJava 2 ([англ](https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)) ([рос](https://habrahabr.ru/post/344016/))
 
 ## Архітектура та Шаблони проектування
 1) Robert C. Martin - Clean Code (2008) ([англ](https://play.google.com/store/books/details?id=_i6bDeoCQzsC)) ([рос](https://rozetka.com.ua/ua/6505018/p6505018/))
