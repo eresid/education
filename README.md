@@ -66,15 +66,27 @@
 ## Front End
 
 ### HTML
-1) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp) (англ)
+1) [Html5book - HTML и HTML5](https://html5book.ru/html-html5/) (рос)
+2) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp) (англ)
 
 ### CSS
-1) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (англ)
+1) [Html5book - CSS и CSS3](https://html5book.ru/css-css3/) (рос)
+2) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (англ)
 
 ### JavaScript
 1) [Современный учебник Javascript](https://learn.javascript.ru/) (рос)
 2) [JavaScript - Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript) (рос/англ)
 3) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (англ)
+4) [Html5book - JavaScript и jQuery](https://html5book.ru/javascript-jquery/) (рос)
+5) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
+
+### Фреймворки, корисні бібліотеки та ресурси
+1) [ReactJS](https://reactjs.org/)
+2) [Angular](https://angular.io/)
+3) [jQuery](https://jquery.com/)
+4) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
+5) [Font Awesome](http://fontawesome.io/)
+6) [Таблица символов Юникода](https://unicode-table.com/)
 
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
