@@ -72,6 +72,8 @@
 ### CSS
 1) [Html5book - CSS и CSS3](https://html5book.ru/css-css3/) (рос)
 2) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (англ)
+3) [Мова стилів Less](http://lesscss.org/) (англ)
+4) [Мова стилів Sass](http://sass-lang.com/guide) (англ)
 
 ### JavaScript
 1) [Современный учебник Javascript](https://learn.javascript.ru/) (рос)
