@@ -87,9 +87,10 @@
 1) [ReactJS](https://reactjs.org/)
 2) [Angular](https://angular.io/)
 3) [jQuery](https://jquery.com/)
-4) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
-5) [Font Awesome](http://fontawesome.io/)
-6) [Таблица символов Юникода](https://unicode-table.com/)
+4) [Axios - HTTP client](https://github.com/axios/axios)
+5) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
+6) [Font Awesome](http://fontawesome.io/)
+7) [Таблица символов Юникода](https://unicode-table.com/)
 
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
