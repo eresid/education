@@ -4,6 +4,7 @@
 3) Bruce Eckel - Thinking in Java: Edition 4 (2006) ([англ](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)) ([рос](https://rozetka.com.ua/ua/21486081/p21486081/)) ([код](http://www.mindviewinc.com/TIJ4/CodeInstructions.html)) - для новачків не підходить в якості першої книги
 4) Java Concurrency in Practice (2006) ([англ](https://play.google.com/store/books/details/Tim_Peierls_Java_Concurrency_in_Practice?id=EK43StEVfJIC)) ([код](http://jcip.net/listings.html))
 5) [Collected Java Practices](http://www.javapractices.com/home/HomeAction.do) (англ)
+6) Java 8 Concurrency Tutorial ([1](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/), [2](http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/), [3](http://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)) (англ)
 
 ## Spring
 1) Spring in Action ([англ (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([рос (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([код](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
@@ -63,6 +64,7 @@
 8) [iPhone Tutorials (Swift & iOS)](https://www.raywenderlich.com/tutorials) (англ)
 9) [Онлайн компілятор] [Спробувати Swift без MacOS](https://swift.sandbox.bluemix.net)
 10) [Відеокурс] [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) (англ)
+11) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (рус)
 
 ## Front End
 
