@@ -17,7 +17,7 @@
 ### Додаткові задачі
 1) [Покрити проект тестами](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
 2) Для тестів використати базу даних [H2](http://www.h2database.com/html/main.html)
-3) Реалізувати міграції за допомогою [Liquibase](http://www.liquibase.org/)
+3) Реалізувати міграції за допомогою [Flyway](https://flywaydb.org/) чи [Liquibase](http://www.liquibase.org/)
 4) [Реалізувати реєстрацію та авторизацію через Facebook](https://docs.spring.io/spring-social-facebook/docs/2.0.3.RELEASE/reference/htmlsingle/)
 5) Реалізувати просту Admin-панель для керування постами
 6) Підключити [Swagger](https://swagger.io/) для документування API
