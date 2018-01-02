@@ -1,4 +1,4 @@
-## Простий блог
+## Мобільний клієнт для блогу
 
 Потрібно створити мобільний клієнт для [персонального блогу](Blog.md). Блог міститиме пости, мітки та коментарі. Інтерфейс повинен відповідати концепціям платформ (для Android - [Material Design](https://material.io/guidelines/), для iOS - [HIG](https://developer.apple.com/ios/human-interface-guidelines/)). Дозволяється використовувати наявні реалізації для прикладу та запозичення шматків коду, але потрібно повністю розбиратись у тому, що копіюється у проект.
 
@@ -16,8 +16,8 @@
 ### Додаткові задачі
 1) Кешувати дані у локальній базі даних (використати [SQLBrite](https://github.com/square/sqlbrite) у Android та ... у iOS)
 2) Покрити проект тестами ([Android](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html), [iOS](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html))
-3) Авторизацію через Facebook ([Android](https://developers.facebook.com/docs/android/), [iOS](https://developers.facebook.com/docs/ios/)
-4) Створювати коментарі до постів
+3) Реалізувати авторизацію через Facebook ([Android](https://developers.facebook.com/docs/android/), [iOS](https://developers.facebook.com/docs/ios/)
+4) Реалізувати можливість додавання коментарів до постів
 5) Реалізувати альбомну і портретну орієнтації
 6) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
 
