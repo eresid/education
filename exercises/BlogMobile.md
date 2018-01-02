@@ -6,15 +6,16 @@
 1) Головний екран міститиме список постів, завантажених по АРІ
 2) При кліку на пост, відкривати його деталі, які міститимуть мітки
 3) Підтягувати коментарі до обраного поста
-4) Використовувати пагінацію для постів
+4) Реалізувати пагінацію для постів
 5) Використати Java чи [Kotlin](https://kotlinlang.org/) для Android та Swift для iOS.
 6) Використати [Android Studio](https://developer.android.com/studio/index.html) для Android та [XCode](https://developer.apple.com/xcode/) для iOS
-7) Використати для роботи з API [Retrofit](http://square.github.io/retrofit/) для Android на ... для iOS
+7) Використати для роботи з API [Retrofit](http://square.github.io/retrofit/) для Android та [Alamofire
+](https://github.com/Alamofire/Alamofire) для iOS
 7) Використати [GitHub](https://github.com/) як систему контроля версій
 8) Використати для організації задач [Trello](https://trello.com/)
 
 ### Додаткові задачі
-1) Кешувати дані у локальній базі даних (використати [SQLBrite](https://github.com/square/sqlbrite) у Android та ... у iOS)
+1) Кешувати дані у локальній базі даних (Android: [SQLBrite](https://github.com/square/sqlbrite) чи [Realm](https://realm.io/docs/java/latest/), iOS: [CoreData](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html) чи [Realm](https://realm.io/docs/tutorials/realmtasks/))
 2) Покрити проект тестами ([Android](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html), [iOS](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html))
 3) Реалізувати авторизацію через Facebook ([Android](https://developers.facebook.com/docs/android/), [iOS](https://developers.facebook.com/docs/ios/)
 4) Реалізувати можливість додавання коментарів до постів
