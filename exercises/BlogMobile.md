@@ -18,9 +18,11 @@
 1) Кешувати дані у локальній базі даних (Android: [SQLBrite](https://github.com/square/sqlbrite) чи [Realm](https://realm.io/docs/java/latest/), iOS: [CoreData](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html) чи [Realm](https://realm.io/docs/tutorials/realmtasks/))
 2) Покрити проект тестами ([Android](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html), [iOS](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html))
 3) Реалізувати авторизацію через Facebook ([Android](https://developers.facebook.com/docs/android/), [iOS](https://developers.facebook.com/docs/ios/)
-4) Реалізувати можливість додавання коментарів до постів
-5) Реалізувати альбомну і портретну орієнтації
-6) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
+4) Підтягувати асинхронно аватарку з Facebook (Android: [Glide](https://github.com/bumptech/glide) чи [Fresco](http://frescolib.org/), iOS: [Kingfisher
+](https://github.com/onevcat/Kingfisher) чи [Nuke](https://github.com/kean/Nuke))
+5) Реалізувати можливість додавання коментарів до постів
+6) Реалізувати альбомну і портретну орієнтації
+7) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
 
 ### Примітки
 1) Дизайн можна реалізовувати будь-який, не потрібно переускладнювати, але потрібно підтримати хоча б декілька різних розширень екрану.
