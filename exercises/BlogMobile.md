@@ -11,8 +11,9 @@
 6) Використати [Android Studio](https://developer.android.com/studio/index.html) для Android та [XCode](https://developer.apple.com/xcode/) для iOS
 7) Використати для роботи з API [Retrofit](http://square.github.io/retrofit/) для Android та [Alamofire
 ](https://github.com/Alamofire/Alamofire) для iOS
-7) Використати [GitHub](https://github.com/) як систему контроля версій
-8) Використати для організації задач [Trello](https://trello.com/)
+8) Серіалізувати Json-об'єкти за допомогою [Gson](https://github.com/google/gson) для Android та [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) чи [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) чи [Unbox](https://github.com/JohnSundell/Unbox) для iOS 
+9) Використати [GitHub](https://github.com/) як систему контроля версій
+10) Використати для організації задач [Trello](https://trello.com/)
 
 ### Додаткові задачі
 1) Кешувати дані у локальній базі даних (Android: [SQLBrite](https://github.com/square/sqlbrite) чи [Realm](https://realm.io/docs/java/latest/), iOS: [CoreData](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html) чи [Realm](https://realm.io/docs/tutorials/realmtasks/))
