@@ -40,6 +40,7 @@
 8) [Відеокурс] [Базовый курс по JDBC (Devcolibri, 2014)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2) (рос)
 9) [Відеокурс] [Spring Boot на практике](https://www.youtube.com/playlist?list=PLaWfw53gNyzaDTEmrlCCj1jjqr6770Nnp) (рос)
 10) [Відеокурс] [Java+JDBC+Hibernate+Spring Data JPA](https://www.youtube.com/playlist?list=PLzjEWSim5GogAlVDQXyTkp5j8MpWKtvov) (рос)
+11) [Відео] [Evgeny Borisov - Список виступів](https://www.youtube.com/playlist?list=PLh2SuUkW2bLxVbZdUGpengMOHsC-qt_PH) (рос)
 
 ## Spring утиліти та бібліотеки
 1) [MapStruct](http://mapstruct.org/) ([приклади](https://github.com/mapstruct/mapstruct-examples)) - генератор коду, який допомагає перетворювати дані з одних об'єктів в інші
