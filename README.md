@@ -105,4 +105,5 @@
 5) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
 
 ## Інше
-1) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
+1) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (англ)
+2) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
