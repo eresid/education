@@ -21,6 +21,11 @@
 6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (англ)
 7) [Стаття] Multi-Threading Like a Boss in Android With RxJava 2 ([англ](https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)) ([рос](https://habrahabr.ru/post/344016/))
 
+## Kotlin
+1) [Руководство по языку Kotlin](https://kotlinlang.ru/) (рос)
+2) [Try Kotlin](https://try.kotlinlang.org/) (англ)
+3) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
+
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([англ (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([рос (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
 2) Joshua Bloch - Effective Java: Edition 2 (2008) ([англ](https://play.google.com/store/books/details/Joshua_Bloch_Effective_Java?id=ka2VUBqHiWkC)) ([рос](https://rozetka.com.ua/ua/21423354/p21423354/)) ([код](https://github.com/marhan/effective-java-examples))
