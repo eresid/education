@@ -23,6 +23,7 @@
 
 ## Kotlin
 1) [Руководство по языку Kotlin](https://kotlinlang.ru/) (рос)
+2) [Відеокурс] [Базовый курс по Kotlin (Devcolibri, 2016)](https://www.youtube.com/playlist?list=PLIU76b8Cjem4ZOt3tlWykUX1AjL9zE19t) (рос)
 2) [Try Kotlin](https://try.kotlinlang.org/) (англ)
 3) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
 
