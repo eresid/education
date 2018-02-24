@@ -24,8 +24,8 @@
 ## Kotlin
 1) [Руководство по языку Kotlin](https://kotlinlang.ru/) (рос)
 2) [Відеокурс] [Базовый курс по Kotlin (Devcolibri, 2016)](https://www.youtube.com/playlist?list=PLIU76b8Cjem4ZOt3tlWykUX1AjL9zE19t) (рос)
-2) [Try Kotlin](https://try.kotlinlang.org/) (англ)
-3) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
+3) [Try Kotlin](https://try.kotlinlang.org/) (англ)
+4) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([англ (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([рос (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
@@ -111,5 +111,6 @@
 5) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
 
 ## Інше
-1) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (англ)
-2) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
+1) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (рос)
+2) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (англ)
+3) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
