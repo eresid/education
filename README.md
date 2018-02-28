@@ -10,7 +10,8 @@
 9) [Онлайн компілятор] [Спробувати Swift без MacOS](https://swift.sandbox.bluemix.net)
 10) [Відеокурс] [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) (англ)
 11) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (рус)
-12) [ Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (код)
+12) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (код)
+13) [Стаття] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (рос)
 
 ## Android
 1) Курс лекций по архитектуре клиент-серверных Android-приложений (2016) ([рос](https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U)) ([код](https://github.com/ArturVasilov/AndroidSchool))
