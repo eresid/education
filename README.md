@@ -27,6 +27,7 @@
 2) [Відеокурс] [Базовый курс по Kotlin (Devcolibri, 2016)](https://www.youtube.com/playlist?list=PLIU76b8Cjem4ZOt3tlWykUX1AjL9zE19t) (рос)
 3) [Try Kotlin](https://try.kotlinlang.org/) (англ)
 4) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
+5) [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) (англ)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([англ (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([рос (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
