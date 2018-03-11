@@ -24,6 +24,7 @@
 6) Реалізувати альбомну і портретну орієнтації
 7) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
 8) Асинхронно працювати з API та БД за допомогою реактивного підходу (Android: [RxJava](https://github.com/ReactiveX/RxJava) чи [RxKotlin](https://github.com/ReactiveX/RxKotlin), iOS: [RxSwift](https://github.com/ReactiveX/RxSwift))
+9) Використати архітектурний паттерн Dependency Injection (Android: [Dagger 2](https://github.com/google/dagger), iOS: [Swinject](https://github.com/Swinject/Swinject))
 
 ### Примітки
 1) Дизайн можна реалізовувати будь-який, не потрібно переускладнювати, але потрібно підтримати хоча б декілька різних розширень екрану.
