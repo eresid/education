@@ -116,4 +116,5 @@
 ## Інше
 1) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (рос)
 2) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (англ)
-3) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
+3) [Введение в Postman](https://habrahabr.ru/company/kolesa/blog/351250/) (рос)
+4) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (англ)
