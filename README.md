@@ -21,6 +21,7 @@
 5) [Android Developers Blog](https://android-developers.googleblog.com/) (англ)
 6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (англ)
 7) [Стаття] Multi-Threading Like a Boss in Android With RxJava 2 ([англ](https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)) ([рос](https://habrahabr.ru/post/344016/))
+8) [Google Codelabs](https://codelabs.developers.google.com/) (англ)
 
 ## Kotlin
 1) [Руководство по языку Kotlin](https://kotlinlang.ru/) (рос)
