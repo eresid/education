@@ -57,6 +57,9 @@
 2) [Project Lombok](https://projectlombok.org/) - генератор коду, який допомагає зменшити кількість шаблонного коду
 3) [Liquibase](http://www.liquibase.org/) - організація міграцій БД
 
+## Amazon Web Services (AWS)
+1) [Відеокурс] [AWS На Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) (рос)
+
 ## SQL & Бази даних
 1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (рос)
 2) Lynn Beighley - Head First SQL (2007) ([англ](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([рос](http://www.yakaboo.ua/head-first-sql.html)) ([таблиці](http://www.headfirstlabs.com/books/hfsql/))
