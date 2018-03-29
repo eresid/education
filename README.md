@@ -109,6 +109,10 @@
 6) [Font Awesome](http://fontawesome.io/)
 7) [Таблица символов Юникода](https://unicode-table.com/)
 
+### Тестування верстки
+1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
+2) [responsivedesign.is](http://ami.responsivedesign.is/)
+
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
 2) [GitHowTo](https://githowto.com/uk) (укр)
