@@ -7,11 +7,15 @@
 6) The Swift Programming Language (Swift 4) ([англ](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)) ([ePub](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub))
 7) [Learn Swift in X minutes](https://learnxinyminutes.com/docs/swift/) (англ)
 8) [iPhone Tutorials (Swift & iOS)](https://www.raywenderlich.com/tutorials) (англ)
-9) [Онлайн компілятор] [Спробувати Swift без MacOS](https://swift.sandbox.bluemix.net)
-10) [Відеокурс] [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) (англ)
-11) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (рус)
-12) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (код)
-13) [Стаття] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (рос)
+9) [Відеокурс] [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) (англ)
+10) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (рус)
+11) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (код)
+12) [Стаття] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (рос)
+
+### Swift Компілятори
+1) [Swift для Windows](https://swiftforwindows.github.io/) ([скачати](https://github.com/SwiftForWindows/SwiftForWindows/releases))
+2) [Swift для MacOS та Linux](https://swift.org/download/)
+3) [Онлайн компілятор Swift](https://swift.sandbox.bluemix.net)
 
 ## Android
 1) Курс лекций по архитектуре клиент-серверных Android-приложений (2016) ([рос](https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U)) ([код](https://github.com/ArturVasilov/AndroidSchool))
