@@ -11,11 +11,12 @@
 10) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (рус)
 11) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (код)
 12) [Стаття] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (рос)
+13) [Swift by example](http://brettbukowski.github.io/SwiftExamples/) (англ)
 
 ### Swift Компілятори
 1) [Swift для Windows](https://swiftforwindows.github.io/) ([скачати](https://github.com/SwiftForWindows/SwiftForWindows/releases))
 2) [Swift для MacOS та Linux](https://swift.org/download/)
-3) [Онлайн компілятор Swift](https://swift.sandbox.bluemix.net)
+3) [Онлайн компілятор Swift](https://glot.io/new/swift)
 
 ## Android
 1) Курс лекций по архитектуре клиент-серверных Android-приложений (2016) ([рос](https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U)) ([код](https://github.com/ArturVasilov/AndroidSchool))
@@ -34,6 +35,7 @@
 4) [Try Kotlin](https://try.kotlinlang.org/) (англ)
 5) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
 6) [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) (англ)
+7) [Kotlin By Example](http://kotlinbyexample.org/) (англ)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([англ (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([рос (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
