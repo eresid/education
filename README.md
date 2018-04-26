@@ -105,7 +105,8 @@
 2) [JavaScript - Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript) (рос/англ)
 3) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (англ)
 4) [Html5book - JavaScript и jQuery](https://html5book.ru/javascript-jquery/) (рос)
-5) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
+5) [Уроки Monster Lessons](https://monsterlessons.com/) (рос)
+6) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
 
 ### Фреймворки, корисні бібліотеки та ресурси
 1) [ReactJS](https://reactjs.org/)
@@ -124,8 +125,9 @@
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (укр)
 2) [GitHowTo](https://githowto.com/uk) (укр)
 3) [Відеокурс] [Базовый курс по Git (Devcolibri, 2017)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (рос)
-4) [Git in 15 minutes](https://try.github.io) (англ)
-5) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
+4) [Git (Monster Lessons)](https://monsterlessons.com/project/categories/git) (рос)
+5) [Git in 15 minutes](https://try.github.io) (англ)
+6) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (англ)
 
 ## Інше
 1) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (рос)
