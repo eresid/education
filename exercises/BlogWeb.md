@@ -21,6 +21,7 @@
 2) Реалізувати можливість додавання коментарів до постів
 3) Підтягувати коментарі до обраного поста
 4) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
+5) Використати [Bootstrap 4](https://getbootstrap.com/)
 
 ### Примітки
 1) Дизайн можна реалізовувати будь-який, не потрібно переускладнювати
