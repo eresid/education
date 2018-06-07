@@ -36,6 +36,7 @@
 5) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) (англ)
 6) [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) (англ)
 7) [Kotlin By Example](http://kotlinbyexample.org/) (англ)
+8) [Kotlin Language Documentation](https://jetbrains.gitbooks.io/kotlin-reference-for-kindle/content/) (англ)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([англ (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([рос (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
