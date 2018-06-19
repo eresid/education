@@ -111,12 +111,13 @@
 
 ### Фреймворки, корисні бібліотеки та ресурси
 1) [ReactJS](https://reactjs.org/)
-2) [Angular](https://angular.io/)
-3) [jQuery](https://jquery.com/)
-4) [Axios - HTTP client](https://github.com/axios/axios)
-5) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
-6) [Font Awesome](http://fontawesome.io/)
-7) [Таблица символов Юникода](https://unicode-table.com/)
+2) [React Training](https://reacttraining.com/react-router/web/example/basic) (англ)
+3) [Angular](https://angular.io/)
+4) [jQuery](https://jquery.com/)
+5) [Axios - HTTP client](https://github.com/axios/axios)
+6) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
+7) [Font Awesome](http://fontawesome.io/)
+8) [Таблица символов Юникода](https://unicode-table.com/)
 
 ### Тестування верстки
 1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
