@@ -1,3 +1,14 @@
+База знань [OmiSoft.net](https://omisoft.net) - тут буде збиратись список книг, відеокурсів та статей по всім напрямкам компанії.
+Тестові завдання для новачків будуть знаходитись [тут](https://github.com/eresid/education/tree/master/exercises). Більш детально:
+- [Android & iOS](https://github.com/eresid/education/blob/master/exercises/BlogMobile.md)
+- [BackEnd](https://github.com/eresid/education/blob/master/exercises/Blog.md)
+- [FrontEnd](https://github.com/eresid/education/blob/master/exercises/BlogWeb.md)
+
+Якщо у когось будуть доповнення чи пропозиції - додавайте [Pull Request](https://github.com/eresid/education/pulls).
+
+База знань доступна всім. Нею можна ділитись, так як чим більше в Україні буде розробників - тим краще.
+
+
 ## iOS & Swift
 1) [Відеокурс] [Хекслет: Курс «Язык программирования Swift»](https://www.youtube.com/watch?v=cv9h0U9UH64&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=1) (рос)
 2) [Відеокурс] Основы Swift (2017) ([рос](https://swiftworld.ru/courses/1)) ([torrent від автора](https://rutracker.org/forum/viewtopic.php?t=5486433))
