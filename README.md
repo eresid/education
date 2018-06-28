@@ -119,6 +119,7 @@
 4) [Html5book - JavaScript и jQuery](https://html5book.ru/javascript-jquery/) (рос)
 5) [Уроки Monster Lessons](https://monsterlessons.com/) (рос)
 6) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
+7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (англ)
 
 ### Фреймворки, корисні бібліотеки та ресурси
 1) [ReactJS](https://reactjs.org/)
