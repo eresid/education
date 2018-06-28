@@ -120,6 +120,7 @@
 5) [Уроки Monster Lessons](https://monsterlessons.com/) (рос)
 6) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
 7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (англ)
+8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (рос)
 
 ### Фреймворки, корисні бібліотеки та ресурси
 1) [ReactJS](https://reactjs.org/)
