@@ -123,18 +123,19 @@
 6) [Основы jQuery](https://loftblog.ru/material/osnovy-jquery-vvedenie-v-jquery/) (рос)
 7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (англ)
 8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (рос)
+9) [Learn RxJS](https://www.learnrxjs.io/) (англ)
 
-### Фреймворки, корисні бібліотеки та ресурси
+### Фреймворки
 1) [Vue.js - Официальное руководство](https://ru.vuejs.org/v2/guide/installation.html) (рос)
-2) [ReactJS](https://reactjs.org/)
+2) [ReactJS - Перевод официального руководства](https://abraxabra.ru/react.js/) (рос)
 3) [React Training](https://reacttraining.com/react-router/web/example/basic) (англ)
 4) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (англ)
-5) [Angular](https://angular.io/)
-6) [jQuery](https://jquery.com/)
-7) [Axios - HTTP client](https://github.com/axios/axios)
-8) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
-9) [Font Awesome](http://fontawesome.io/)
-10) [Таблица символов Юникода](https://unicode-table.com/)
+5) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (рос)
+
+### Корисні бібліотеки та ресурси
+1) [Axios - HTTP client](https://github.com/axios/axios)
+2) [Font Awesome](http://fontawesome.io/)
+3) [Таблица символов Юникода](https://unicode-table.com/)
 
 ### Тестування верстки
 1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
