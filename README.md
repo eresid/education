@@ -53,7 +53,7 @@
 9) [Kotlin Language Documentation](https://jetbrains.gitbooks.io/kotlin-reference-for-kindle/content/) (eng)
 
 ## Java
-1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([eng (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([rus (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([код](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
+1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([eng (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([rus (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([code](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
 2) Joshua Bloch - Effective Java: Edition 2 (2008) ([eng](https://play.google.com/store/books/details/Joshua_Bloch_Effective_Java?id=ka2VUBqHiWkC)) ([rus](https://rozetka.com.ua/ua/21423354/p21423354/)) ([code](https://github.com/marhan/effective-java-examples))
 3) Bruce Eckel - Thinking in Java: Edition 4 (2006) ([eng](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)) ([rus](https://rozetka.com.ua/ua/21486081/p21486081/)) ([code](http://www.mindviewinc.com/TIJ4/CodeInstructions.html)) - для новачків не підходить в якості першої книги
 4) Java Concurrency in Practice (2006) ([eng](https://play.google.com/store/books/details/Tim_Peierls_Java_Concurrency_in_Practice?id=EK43StEVfJIC)) ([code](http://jcip.net/listings.html))
@@ -63,8 +63,8 @@
 8) [Multithreading in Java](https://beginnersbook.com/2013/03/multithreading-in-java/) (eng)
 
 ## Spring
-1) Spring in Action ([англ (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([rus (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([code](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
-2) Pro Spring 5 ([англ (2017)](https://www.apress.com/gp/book/9781484228074)) ([rus (2014)](https://rozetka.com.ua/ua/12512005/p12512005/)) ([код](https://github.com/Apress/pro-spring-5))
+1) Spring in Action ([eng (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([rus (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([code](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
+2) Pro Spring 5 ([eng (2017)](https://www.apress.com/gp/book/9781484228074)) ([rus (2014)](https://rozetka.com.ua/ua/12512005/p12512005/)) ([code](https://github.com/Apress/pro-spring-5))
 3) Beginning Spring Boot 2 (2017) ([eng](https://www.apress.com/gp/book/9781484229309)) ([code](https://github.com/Apress/beg-spring-boot-2))
 4) [Java Web Weekly](http://www.baeldung.com/java-web-weekly) (eng)
 5) [Відеокурс] [S4AA - Сервер для Android приложения (Devcolibri, 2016)](https://www.youtube.com/playlist?list=PLIU76b8Cjem4axtgg9DsrJ1y6tyrW9F2K) (rus)
@@ -86,7 +86,7 @@
 
 ## SQL & Бази даних
 1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (rus)
-2) Lynn Beighley - Head First SQL (2007) ([eng](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([rus](http://www.yakaboo.ua/head-first-sql.html)) ([таблиці](http://www.headfirstlabs.com/books/hfsql/))
+2) Lynn Beighley - Head First SQL (2007) ([eng](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([rus](http://www.yakaboo.ua/head-first-sql.html)) ([table of contents](http://www.headfirstlabs.com/books/hfsql/))
 3) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) (eng)
 4) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (eng)
 5) [Работа с PostgreSQL. Настройка и масштабирование (2017)](http://postgresql.leopard.in.ua/) (rus)
