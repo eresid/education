@@ -3,20 +3,20 @@
 Потрібно створити простий блог, який міститиме пости, мітки та коментарі. Інтерфейс буде зверстано Front End-ом на основі будь-якого шаблону. Дозволяється використовувати наявні реалізації для прикладу та запозичення шматків коду, але потрібно повністю розбиратись у тому, що копіюється у проект.
 
 ### Основні задачі
-1) Використати Java чи Kotlin
-2) Використати Spring Boot 2.0
-3) Використати IntelliJ IDEA
-4) Використати систему збірки Gradle
-5) Використати GitHub, як систему контроля версій
-6) Використати базу даних: PostgreSQL чи MySQL
-7) Реалізувати міграції за допомогою Liquibase
-8) Використати JJWT
-9) Підключити Swagger для документування API
-10) Залити проект на будь-яку хмару (Heroku, Amazon, ...)
+1) Використати [Java](https://www.oracle.com/technetwork/java/index.html) чи [Kotlin](https://kotlinlang.org)
+2) Використати [Spring Boot](https://spring.io/projects/spring-boot) 2.x
+3) Використати [IntelliJ IDEA](https://www.jetbrains.com/idea)
+4) Використати систему збірки [Gradle](https://gradle.org)
+5) Використати [GitHub](https://github.com), як систему контроля версій
+6) Використати базу даних: [PostgreSQL](https://www.postgresql.org) чи [MySQL](https://www.mysql.com)
+7) Реалізувати міграції за допомогою [Liquibase](https://www.liquibase.org)
+8) Використати [JJWT](https://github.com/jwtk/jjwt)
+9) Підключити [Swagger](http://springfox.github.io/springfox/) для документування API
+10) Залити проект на будь-яку хмару ([Heroku](https://www.heroku.com), [Amazon](https://aws.amazon.com), ...)
 
 ### Додаткові задачі
 1) Покрити проект тестами
-2) Для тестів використати базу даних H2
+2) Для тестів використати базу даних [H2](http://www.h2database.com)
 3) Реалізувати реєстрацію та авторизацію через Facebook
 4) Реалізувати просту Admin-панель для керування постами
 
