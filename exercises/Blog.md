@@ -3,24 +3,23 @@
 Потрібно створити простий блог, який міститиме пости, мітки та коментарі. Інтерфейс буде зверстано Front End-ом на основі будь-якого шаблону. Дозволяється використовувати наявні реалізації для прикладу та запозичення шматків коду, але потрібно повністю розбиратись у тому, що копіюється у проект.
 
 ### Основні задачі
-1) Створити проект за допомогою [Spring Initializr](https://start.spring.io/)
-2) Використати Spring Boot 2.0
-3) Використати Java чи [Kotlin](https://kotlinlang.org/)
-4) Використати [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-5) Використати систему збірки [Gradle](https://gradle.org/)
-6) Використати базу даних: PostgreSQL чи MySQL
-7) Використати [GitHub](https://github.com/) як систему контроля версій
-8) Використати контейнер сервлетів Embedded Tomcat
-9) Використати для організації задач [Trello](https://trello.com/)
-10) Залити проект на будь-яку хмару (heroku, openshift, amazon...)
+1) Використати [Java](https://www.oracle.com/technetwork/java/index.html) чи [Kotlin](https://kotlinlang.org)
+2) Використати [Spring Boot](https://spring.io/projects/spring-boot) 2.x
+3) Використати [IntelliJ IDEA](https://www.jetbrains.com/idea)
+4) Використати систему збірки [Gradle](https://gradle.org)
+5) Використати [GitHub](https://github.com), як систему контроля версій
+6) Використати базу даних: [PostgreSQL](https://www.postgresql.org) чи [MySQL](https://www.mysql.com)
+7) Реалізувати міграції за допомогою [Liquibase](https://www.liquibase.org)
+8) Використати [JJWT](https://github.com/jwtk/jjwt)
+9) Підключити [Swagger](http://springfox.github.io/springfox/) для документування API
+10) Залити проект на будь-яку хмару ([Heroku](https://www.heroku.com), [Amazon](https://aws.amazon.com), ...)
 
 ### Додаткові задачі
-1) [Покрити проект тестами](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html)
-2) Для тестів використати базу даних [H2](http://www.h2database.com/html/main.html)
-3) Реалізувати міграції за допомогою [Flyway](https://flywaydb.org/) чи [Liquibase](http://www.liquibase.org/)
-4) [Реалізувати реєстрацію та авторизацію через Facebook](https://docs.spring.io/spring-social-facebook/docs/2.0.3.RELEASE/reference/htmlsingle/)
-5) Реалізувати просту Admin-панель для керування постами
-6) Підключити [Swagger](https://swagger.io/) для документування API
+1) Покрити проект тестами
+2) Для тестів використати базу даних [H2](http://www.h2database.com)
+3) Реалізувати реєстрацію та авторизацію через Facebook
+4) Реалізувати просту Admin-панель для керування постами
+
 
 ### Примітки
 1) Блог - хороше тестове завдання, але якщо є бажання реалізувати щось інше - без проблем, головне притримуватись вищевказаних задач
