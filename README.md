@@ -25,6 +25,7 @@
 11) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (code)
 12) [Стаття] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (rus)
 13) [Swift by example](http://brettbukowski.github.io/SwiftExamples/) (eng)
+14) [Airbnb Swift Code Conventions](https://github.com/airbnb/swift) (eng)
 
 ### Swift Компілятори
 1) [Swift для Windows](https://swiftforwindows.github.io/) ([download](https://github.com/SwiftForWindows/SwiftForWindows/releases))
@@ -127,6 +128,7 @@
 7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (eng)
 8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (rus)
 9) [Learn RxJS](https://www.learnrxjs.io/) (eng)
+10) [Airbnb JavaScript Code Conventions](https://github.com/airbnb/javascript) (eng)
 
 ### ReactJS
 1) [Стаття] [Основы React: всё, что нужно знать для начала работы](https://habr.com/ru/company/ruvds/blog/343022/) (rus)
