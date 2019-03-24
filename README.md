@@ -133,10 +133,12 @@
 ### ReactJS
 1) [Стаття] [Основы React: всё, что нужно знать для начала работы](https://habr.com/ru/company/ruvds/blog/343022/) (rus)
 2) [ReactJS - Перевод официального руководства](https://abraxabra.ru/react.js/) (rus)
-3) [Scrimba: Учебный курс по React](https://habr.com/ru/company/ruvds/blog/432636/) (rus)
-4) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd) (eng)
-5) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
-6) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
+3) [Відеокурс] [Web Developer: ReactJS Теория](https://www.youtube.com/playlist?list=PLGVvrE3FiqBMXyQQJ-ea1FdPTSYasTSFs) (rus)
+4) [Відеокурс] [Web Developer: ReactJS Практика](https://www.youtube.com/playlist?list=PLGVvrE3FiqBNsOgksGI1nzSaF6KBQfA6M) (rus)
+5) [Scrimba: Учебный курс по React](https://habr.com/ru/company/ruvds/blog/432636/) (rus)
+6) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd) (eng)
+7) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
+8) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
 
 ### Інші фреймворки
 1) [Vue.js - Официальное руководство](https://ru.vuejs.org/v2/guide/installation.html) (rus)
