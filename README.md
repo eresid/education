@@ -128,12 +128,17 @@
 8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (rus)
 9) [Learn RxJS](https://www.learnrxjs.io/) (eng)
 
-### Фреймворки
-1) [Vue.js - Официальное руководство](https://ru.vuejs.org/v2/guide/installation.html) (rus)
+### ReactJS
+1) [Стаття] [Основы React: всё, что нужно знать для начала работы](https://habr.com/ru/company/ruvds/blog/343022/) (rus)
 2) [ReactJS - Перевод официального руководства](https://abraxabra.ru/react.js/) (rus)
-3) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
-4) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
-5) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (rus)
+3) [Scrimba: Учебный курс по React](https://habr.com/ru/company/ruvds/blog/432636/) (rus)
+4) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd) (eng)
+5) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
+6) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
+
+### Інші фреймворки
+1) [Vue.js - Официальное руководство](https://ru.vuejs.org/v2/guide/installation.html) (rus)
+2) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (rus)
 
 ### Корисні бібліотеки та ресурси
 1) [Axios - HTTP client](https://github.com/axios/axios)
@@ -143,6 +148,7 @@
 ### Тестування верстки
 1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
 2) [responsivedesign.is](http://ami.responsivedesign.is/)
+3) [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (ukr)
