@@ -11,7 +11,7 @@
 6) Використати [Android Studio](https://developer.android.com/studio/index.html) для Android та [XCode](https://developer.apple.com/xcode/) для iOS
 7) Використати для роботи з API [Retrofit](http://square.github.io/retrofit/) для Android та [Alamofire
 ](https://github.com/Alamofire/Alamofire) для iOS
-8) Серіалізувати Json-об'єкти за допомогою [Gson](https://github.com/google/gson) для Android та [Codable](https://useyourloaf.com/blog/swift-codable-with-custom-dates/) для iOS 
+8) Серіалізувати Json-об'єкти за допомогою [Gson](https://github.com/google/gson) для Android та [Codable](https://bestkora.com/IosDeveloper/swift-4-parsim-json/) для iOS 
 9) Використати [GitHub](https://github.com/) як систему контролю версій
 10) Використати для організації задач [Trello](https://trello.com/)
 
