@@ -1,4 +1,4 @@
-![alt text](https://github.com/eresid/education/images/header.png)
+![OmiSoft](/images/header.png)
 
 Knowledge base of [OmiSoft.net](https://omisoft.net)
 
