@@ -23,8 +23,9 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 11) [iOS, Чистый код](https://stfalcon.com/ru/blog/post/clean-code) (ru)
 12) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (code)
 13) [Article] [Параллельное программирование в Swift: Operations](https://habrahabr.ru/post/350096/) (ru)
+14) [Airbnb Swift Code Conventions](https://github.com/airbnb/swift) (eng)
 
-### Swift Compiler
+### Swift Compilers
 1) [Swift for Windows](https://swiftforwindows.github.io/) ([download](https://github.com/SwiftForWindows/SwiftForWindows/releases))
 2) [Swift for MacOS and Linux](https://swift.org/download/)
 3) [Online compiler Swift](https://glot.io/new/swift)
@@ -48,6 +49,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 6) [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) (en)
 7) [Kotlin By Example](http://kotlinbyexample.org/) (en)
 8) [Kotlin Language Documentation](https://jetbrains.gitbooks.io/kotlin-reference-for-kindle/content/) (en)
+9) [Article] [Паттерны проектирования в Kotlin](https://habr.com/post/421873/) (rus)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([en (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([ru (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([code](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
@@ -56,6 +58,8 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 4) Java Concurrency in Practice (2006) ([en](https://play.google.com/store/books/details/Tim_Peierls_Java_Concurrency_in_Practice?id=EK43StEVfJIC)) ([code](http://jcip.net/listings.html))
 5) [Collected Java Practices](http://www.javapractices.com/home/HomeAction.do) (en)
 6) Java 8 Concurrency Tutorial ([1](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/), [2](http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/), [3](http://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)) (en)
+7) [Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/) (eng)
+8) [Multithreading in Java](https://beginnersbook.com/2013/03/multithreading-in-java/) (eng)
 
 ## Spring
 1) Spring in Action ([en (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([ru (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([code](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
@@ -79,19 +83,19 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 ## Amazon Web Services (AWS)
 1) [Video course] [AWS На Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) (ru)
 
-## SQL & Бази даних
-1) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (ru)
-2) Lynn Beighley - Head First SQL (2007) ([en](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([ru](http://www.yakaboo.ua/head-first-sql.html)) ([таблиці](http://www.headfirstlabs.com/books/hfsql/))
-3) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) (en)
-4) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (en)
+## SQL & Data bases
+1) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) (en)
+2) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (en)
+3) Lynn Beighley - Head First SQL (2007) ([en](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC)) ([ru](http://www.yakaboo.ua/head-first-sql.html)) ([таблиці](http://www.headfirstlabs.com/books/hfsql/))
+4) [SQL Задачи и решения](http://www.sql-tutorial.ru/ru/content.html) (ru)
 5) [Работа с PostgreSQL. Настройка и масштабирование (2017)](http://postgresql.leopard.in.ua/) (ru)
 
 ## Architecture and Desgin Patterns
 1) Robert C. Martin - Clean Code (2008) ([en](https://play.google.com/store/books/details?id=_i6bDeoCQzsC)) ([ru](https://rozetka.com.ua/ua/6505018/p6505018/))
-2)  E.Freeman, E.Robson, B.Bates, K.Sierra - Head First Design Patterns (2004) ([en](https://play.google.com/store/books/details/Eric_Freeman_Head_First_Design_Patterns?id=NXIrAQAAQBAJ)) ([ru](https://rozetka.com.ua/ua/25950041/p25950041/))
+2) E.Freeman, E.Robson, B.Bates, K.Sierra - Head First Design Patterns (2004) ([en](https://play.google.com/store/books/details/Eric_Freeman_Head_First_Design_Patterns?id=NXIrAQAAQBAJ)) ([ru](https://rozetka.com.ua/ua/25950041/p25950041/))
 3) [Design Patterns in Java Tutorial - Tutorials Point](https://www.tutorialspoint.com/design_pattern/index.htm) (en)
 4) [Gang of Four Design Patterns (2009)](http://www.blackwasp.co.uk/gofpatterns.aspx) (en)
-5) [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+5) [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) (en)
 
 ## Algorithms, math, etc
 1) [Rosetta Code](http://rosettacode.org/) (en)
@@ -136,17 +140,18 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 ### Layout testing
 1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
 2) [responsivedesign.is](http://ami.responsivedesign.is/)
+3) [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Git
-1) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (en)
-2) [Official documentation] (https://git-scm.com/book/en/v2) (en) (https://git-scm.com/book/uk/v2/) (ua)
-3) [GitHowTo](https://githowto.com/uk) (ua)
-4) [Video course] [Базовый курс по Git (Devcolibri, 2017)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (ru)
-5) [Git (Monster Lessons)](https://monsterlessons.com/project/categories/git) (ru)
-6) [Git in 15 minutes](https://try.github.io) (en)
+1) [Official Documentation](https://git-scm.com/book/en/v2) (en)
+2) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (en)
+3) [Git in 15 minutes](https://try.github.io) (en)
+4) [GitHowTo](https://githowto.com/uk) (ua)
+5) [Video course] [Базовый курс по Git (Devcolibri, 2017)](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (ru)
+6) [Git (Monster Lessons)](https://monsterlessons.com/project/categories/git) (ru)
 
 ## Other
 1) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (en)
-2) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (ru)
-3) [Введение в Postman](https://habrahabr.ru/company/kolesa/blog/351250/) (ru)
-4) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (en)
+2) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (en)
+3) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (ru)
+4) [Введение в Postman](https://habrahabr.ru/company/kolesa/blog/351250/) (ru)
