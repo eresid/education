@@ -12,19 +12,19 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 
 ## Content
 
-- [iOS & Swift](#iOS-&-Swift)
+- [iOS & Swift](#iOS-and-Swift)
 - [Android](#Android)
 - [Kotlin](#Kotlin)
 - [Java](#Java)
 - [Spring](#Spring)
-- [SQL & Data bases](#SQL-&-Data-bases)
+- [SQL & Data bases](#SQL-and-Databases)
 - [Architecture and Desgin Patterns](#Architecture-and-Desgin-Patterns)
-- [Algorithms, math, etc](#Algorithms,-math,-etc)
+- [Algorithms](#Algorithms)
 - [Front End](#Front-end)
 - [Git](#Git)
 - [Other](#Other)
 
-## iOS & Swift
+## iOS and Swift
 
 1) [Swift by examples](http://brettbukowski.github.io/SwiftExamples/) (en)
 2) The Swift Programming Language (Swift 4) ([en](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)) ([ePub](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub))
@@ -85,7 +85,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 2) [Project Lombok](https://projectlombok.org/) - code generator which reduces number of templates code
 3) [Liquibase](http://www.liquibase.org/) - Organizes database migration
 
-## SQL & Data bases
+## SQL and Databases
 
 1) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) (en)
 2) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (en)
@@ -100,7 +100,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 4) [Gang of Four Design Patterns (2009)](http://www.blackwasp.co.uk/gofpatterns.aspx) (en)
 5) [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) (en)
 
-## Algorithms, math, etc
+## Algorithms
 
 1) [Rosetta Code](http://rosettacode.org/) (en)
 2) [LeetCode](https://leetcode.com) (en)
