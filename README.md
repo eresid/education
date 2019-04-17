@@ -108,15 +108,17 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 ## Front End
 
 ### HTML
+
 1) [Html5book - HTML и HTML5](https://html5book.ru/html-html5/) (ru)
 2) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp) (en)
 
 ### CSS
+
 1) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (en)
 2) [Sass Language](http://sass-lang.com/guide) (en)
-3) [Html5book - CSS и CSS3](https://html5book.ru/css-css3/) (ru)
 
 ### JavaScript
+
 1) [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/default.asp) (en)
 2) [Современный учебник Javascript](https://learn.javascript.ru/) (ru)
 3) [JavaScript - Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript) (ru/en)
@@ -126,23 +128,33 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (en)
 8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (ru)
 
-### Frameworks, libraries, useful resources
+### ReactJS
+
 1) [ReactJS](https://reactjs.org/)
-2) [React Training](https://reacttraining.com/react-router/web/example/basic) (en)
-3) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (en)
-4) [Angular](https://angular.io/)
-5) [jQuery](https://jquery.com/)
-6) [Axios - HTTP client](https://github.com/axios/axios)
-7) [Video course] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (ru)
-8) [Font Awesome](http://fontawesome.io/)
-9) [Unicode table](https://unicode-table.com/)
+2) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd) (en)
+3) [React Training](https://reacttraining.com/react-router/web/example/basic) (en)
+4) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (en)
+
+### Other frameworks
+
+1) [Angular](https://angular.io/) (en)
+2) [jQuery](https://jquery.com/) (en)
+3) [Vue.js](https://vuejs.org/v2/guide/installation.html) (en)
+
+### Useful resources
+
+1) [Axios - HTTP client](https://github.com/axios/axios)
+2) [Font Awesome](http://fontawesome.io/)
+3) [Unicode table](https://unicode-table.com/)
 
 ### Layout testing
+
 1) [Quirktools Screenfly](http://quirktools.com/screenfly/)
 2) [responsivedesign.is](http://ami.responsivedesign.is/)
 3) [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Git
+
 1) [Official Documentation](https://git-scm.com/book/en/v2) (en)
 2) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (en)
 3) [Git in 15 minutes](https://try.github.io) (en)
@@ -151,6 +163,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 6) [Git (Monster Lessons)](https://monsterlessons.com/project/categories/git) (ru)
 
 ## Other
+
 1) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (en)
 2) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (en)
 3) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (ru)
