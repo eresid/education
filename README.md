@@ -17,7 +17,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 - [Kotlin](#Kotlin)
 - [Java](#Java)
 - [Spring](#Spring)
-- [SQL & Data bases](#SQL-and-Databases)
+- [SQL & Databases](#SQL-and-Databases)
 - [Architecture and Desgin Patterns](#Architecture-and-Desgin-Patterns)
 - [Algorithms](#Algorithms)
 - [Front End](#Front-end)
