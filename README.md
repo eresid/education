@@ -10,18 +10,17 @@ Test tasks for newbiews are located [here](https://github.com/eresid/education/t
 
 You are always welcome to create [Pull Request](https://github.com/eresid/education/pulls)
 
-#### Content
+## Content
 
-- [iOS & Swift](#iOS)
+- [iOS & Swift](#iOS-&-Swift)
 - [Android](#Android)
 - [Kotlin](#Kotlin)
 - [Java](#Java)
 - [Spring](#Spring)
-- [SQL](#SQL)
-- [Architecture](#Architecture)
-- [Algorithms](#Algorithms)
-- [Architecture](#Architecture)
-- [Front End](#Front)
+- [SQL & Data bases](#SQL-&-Data-bases)
+- [Architecture and Desgin Patterns](#Architecture-and-Desgin-Patterns)
+- [Algorithms, math, etc](#Algorithms,-math,-etc)
+- [Front End](#Front-end)
 - [Git](#Git)
 - [Other](#Other)
 
