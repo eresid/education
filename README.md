@@ -10,11 +10,20 @@ Test tasks for newbiews are located [here](https://github.com/eresid/education/t
 
 You are always welcome to create [Pull Request](https://github.com/eresid/education/pulls)
 
-#### Table of Contents  
+#### Content
 
-[iOS & Swift](#iOS & Swift)
-[Android](#Android)
-[Java](#Java)
+- [iOS & Swift](#iOS)
+- [Android](#Android)
+- [Kotlin](#Kotlin)
+- [Java](#Java)
+- [Spring](#Spring)
+- [SQL](#SQL)
+- [Architecture](#Architecture)
+- [Algorithms](#Algorithms)
+- [Architecture](#Architecture)
+- [Front End](#Front)
+- [Git](#Git)
+- [Other](#Other)
 
 ## iOS & Swift
 
@@ -71,7 +80,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 5) Spring Framework Documentation ([en](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
 6) Spring Boot Reference Guide ([en](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)) ([pdf](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf)) ([epub](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
 
-## Spring utilities and libraries
+### Spring utilities and libraries
 
 1) [MapStruct](http://mapstruct.org/) ([examples](https://github.com/mapstruct/mapstruct-examples)) - code generator that makes life easier
 2) [Project Lombok](https://projectlombok.org/) - code generator which reduces number of templates code
