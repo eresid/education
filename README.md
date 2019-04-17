@@ -10,6 +10,12 @@ Test tasks for newbiews are located [here](https://github.com/eresid/education/t
 
 You are always welcome to create [Pull Request](https://github.com/eresid/education/pulls)
 
+#### Table of Contents  
+
+[iOS & Swift](#iOS & Swift)
+[Android](#Android)
+[Java](#Java)
+
 ## iOS & Swift
 
 1) [Swift by examples](http://brettbukowski.github.io/SwiftExamples/) (en)
