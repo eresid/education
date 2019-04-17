@@ -76,7 +76,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 2) [Pro Spring 5 (2017)](https://www.apress.com/gp/book/9781484228074) ([code](https://github.com/Apress/pro-spring-5))
 3) [Beginning Spring Boot 2 (2017)](https://www.apress.com/gp/book/9781484229309) ([code](https://github.com/Apress/beg-spring-boot-2))
 4) [Java Web Weekly](http://www.baeldung.com/java-web-weekly)
-5) Spring Framework Documentation ([en](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
+5) [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html) ([pdf](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/))
 6) [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) ([pdf](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf)) ([epub](https://docs.spring.io/spring-boot/docs/current/reference/epub/spring-boot-reference.epub))
 
 ### Spring utilities and libraries
