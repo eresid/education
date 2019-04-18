@@ -11,8 +11,8 @@
 6) Використати [Android Studio](https://developer.android.com/studio/index.html) для Android та [XCode](https://developer.apple.com/xcode/) для iOS
 7) Використати для роботи з API [Retrofit](http://square.github.io/retrofit/) для Android та [Alamofire
 ](https://github.com/Alamofire/Alamofire) для iOS
-8) Серіалізувати Json-об'єкти за допомогою [Gson](https://github.com/google/gson) для Android та [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) чи [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) чи [Unbox](https://github.com/JohnSundell/Unbox) для iOS 
-9) Використати [GitHub](https://github.com/) як систему контроля версій
+8) Серіалізувати Json-об'єкти за допомогою [Gson](https://github.com/google/gson) для Android та [Codable](https://bestkora.com/IosDeveloper/swift-4-parsim-json/) для iOS 
+9) Використати [GitHub](https://github.com/) як систему контролю версій
 10) Використати для організації задач [Trello](https://trello.com/)
 
 ### Додаткові задачі
@@ -24,8 +24,9 @@
 6) Реалізувати альбомну і портретну орієнтації
 7) Використати архітектурний паттерн [MVP](https://uk.wikipedia.org/wiki/Model-View-Presenter) чи [MVVM](https://uk.wikipedia.org/wiki/Model-View-ViewModel)
 8) Асинхронно працювати з API та БД за допомогою реактивного підходу (Android: [RxJava](https://github.com/ReactiveX/RxJava) чи [RxKotlin](https://github.com/ReactiveX/RxKotlin), iOS: [RxSwift](https://github.com/ReactiveX/RxSwift))
+9) Використати архітектурний паттерн Dependency Injection (Android: [Dagger 2](https://github.com/google/dagger), iOS: [Swinject](https://github.com/Swinject/Swinject))
 
 ### Примітки
-1) Дизайн можна реалізовувати будь-який, не потрібно переускладнювати, але потрібно підтримати хоча б декілька різних розширень екрану.
+1) Дизайн можна реалізовувати будь-який, не потрібно переускладнювати, але потрібно підтримати хоча б декілька різних розширень екрану (для iOS: [AutoLayout])
 2) Можна об'єднуватись у команди і розподіляти задачі, головне розбиратись у коді партнерів
 3) Дана задача є хорошим фінальним тестовим завданням, якісно реалізувавши яку, можна вже говорити про працевлаштування
