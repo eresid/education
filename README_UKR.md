@@ -1,6 +1,9 @@
 ![OmiSoft](/images/header.png)
 
-База знань [OmiSoft.net](https://omisoft.net) - тут буде збиратись список книг, відеокурсів та статей по всім напрямкам компанії.
+База знань [OmiSoft.net](https://omisoft.net) - тут буде збиратись список книг, відеокурсів та статей по всім напрямкам компанії.  
+  
+[English 🇺🇸🇬🇧 version](./README.md)
+
 Тестові завдання для новачків будуть знаходитись [тут](https://github.com/eresid/education/tree/master/exercises). Більш детально:
 - [Android & iOS](https://github.com/eresid/education/blob/master/exercises/BlogMobile.md)
 - [BackEnd](https://github.com/eresid/education/blob/master/exercises/Blog.md)
