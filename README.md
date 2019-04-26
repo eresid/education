@@ -1,6 +1,7 @@
 ![OmiSoft](/images/header.png)
 
-Knowledge base of [OmiSoft.net](https://omisoft.net). 
+Knowledge base of [OmiSoft.net](https://omisoft.net).  
+  
 [Ukrainian 🇺🇦 version](./README_UKR.md)
 
 Test tasks for newbiews are located [here](https://github.com/eresid/education/tree/master/exercises). More detailed:
