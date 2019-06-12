@@ -170,3 +170,4 @@
 2) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (eng)
 3) [Введение в Postman](https://habrahabr.ru/company/kolesa/blog/351250/) (rus)
 4) [Learn JSON in X minutes](https://learnxinyminutes.com/docs/json/) (eng)
+5) [An Introduction to API’s](https://restful.io/an-introduction-to-api-s-cee90581ca1b?gi=5134b448bd4f) (eng)
