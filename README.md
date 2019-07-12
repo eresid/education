@@ -118,6 +118,10 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 
 ## Front End
 
+1) [FrontEnd Focus](https://frontendfoc.us/)
+2) [Node Weekly](https://nodeweekly.com/)
+3) [Kent C. Dodds Blog](https://kentcdodds.com/)
+
 ### HTML
 
 1) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp)
@@ -126,6 +130,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 
 1) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
 2) [Sass Language](http://sass-lang.com/guide)
+3) [CSS Weekly](https://css-weekly.com/)
 
 ### JavaScript
 
@@ -133,6 +138,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 2) [The Modern JavaScript Tutorial](https://javascript.info/)
 3) [JavaScript - Mozilla](https://developer.mozilla.org/en/docs/Web/JavaScript)
 4) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+5) [JavaScript Weekly](https://javascriptweekly.com/)
 
 ### ReactJS
 
@@ -140,12 +146,8 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 2) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd)
 3) [React Training](https://reacttraining.com/react-router/web/example/basic)
 4) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm)
-
-### Other frameworks
-
-1) [Angular](https://angular.io/)
-2) [jQuery](https://jquery.com/)
-3) [Vue.js](https://vuejs.org/v2/guide/installation.html)
+5) [Overreacted - React Tutorials](https://overreacted.io/)
+6) [React & ReactNative Weekly](https://react.statuscode.com/)
 
 ### Useful resources
 
