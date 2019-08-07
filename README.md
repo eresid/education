@@ -149,6 +149,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 4) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm)
 5) [Overreacted - React Tutorials](https://overreacted.io/)
 6) [React & ReactNative Weekly](https://react.statuscode.com/)
+7) [React Bits](https://vasanthk.gitbooks.io/react-bits/)
 
 ### Useful resources
 
