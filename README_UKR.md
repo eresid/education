@@ -165,6 +165,9 @@
 5) [Git in 15 minutes](https://try.github.io) (eng)
 6) [Learn Git in X minutes](https://learnxinyminutes.com/docs/git/) (eng)
 
+## Scrum
+1) [SCRUM — метод управления проектами. Обучающий мультик](https://www.youtube.com/watch?v=BHhr1aMgKPk) (rus)
+
 ## Інше
 1) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (rus)
 2) [RESTful Web Services Tutorial](https://www.tutorialspoint.com/restful/index.htm) (eng)
