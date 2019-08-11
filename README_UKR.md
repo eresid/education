@@ -120,6 +120,7 @@
 1) [Html5book - CSS и CSS3](https://html5book.ru/css-css3/) (rus)
 2) [CSS Tutorial - W3Schools](https://www.w3schools.com/css/) (eng)
 3) [Мова стилів Sass](http://sass-lang.com/guide) (eng)
+4) [БЭМ методологий: документация](https://ru.bem.info/methodology/) (rus)
 
 ### JavaScript
 1) [Современный учебник Javascript](https://learn.javascript.ru/) rus)
