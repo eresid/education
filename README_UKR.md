@@ -144,6 +144,9 @@
 7) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
 8) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
 
+### Node.js
+1) [Уроки Node JS и Express для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet) (rus)
+
 ### Інші фреймворки
 1) [Vue.js - Официальное руководство](https://ru.vuejs.org/v2/guide/installation.html) (rus)
 2) [Відеокурс] [Анатомия Bootstrap 3 для начинающих](https://www.youtube.com/playlist?list=PLvWwA9iDlhHDZD_V0SUnO-wiN3FpZOy2P) (rus)
