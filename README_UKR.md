@@ -171,6 +171,7 @@
 
 ## Scrum
 1) [SCRUM — метод управления проектами. Обучающий мультик](https://www.youtube.com/watch?v=BHhr1aMgKPk) (rus)
+2) [Основы Agile Метод Scrum для веб-разработки](https://www.youtube.com/playlist?list=PLP9M7TKFXe1CAw1EExEXNe94Ou2YCRGcU) (rus)
 
 ## Інше
 1) [Синхронизируем понимание REST](https://dou.ua/lenta/articles/rest-conception/) (rus)
