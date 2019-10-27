@@ -90,9 +90,10 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 ### SQL
 
 1) [Lynn Beighley - Head First SQL (2007)](https://play.google.com/store/books/details/Lynn_Beighley_Head_First_SQL?id=5iR4hZNSCcgC) ([tables](http://www.headfirstlabs.com/books/hfsql/))
-2) [Ben Forta - SQL in 10 Minutes (2012)](https://play.google.com/store/books/details/Ben_Forta_SQL_in_10_Minutes_Sams_Teach_Yourself?id=IkBxyCMqwI8C)
-3) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
-4) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/)
+2) [SQLBolt: Learn SQL with simple, interactive exercises](https://sqlbolt.com)
+3) [Ben Forta - SQL in 10 Minutes (2012)](https://play.google.com/store/books/details/Ben_Forta_SQL_in_10_Minutes_Sams_Teach_Yourself?id=IkBxyCMqwI8C)
+4) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
+5) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/)
 
 ### Spring
 
