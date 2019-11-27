@@ -1,7 +1,16 @@
 ![OmiSoft](/images/header.png)
 
 Knowledge base of [OmiSoft.net](https://omisoft.net/?utm_source=github&utm_medium=social).  
-  
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1]: http://www.twitter.com/omisoftnet
+[2]: http://www.facebook.com/omisoftnet
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+
 [Ukrainian 🇺🇦 version](./README_UKR.md)
 
 Test tasks for newbiews are located [here](https://github.com/eresid/education/tree/master/exercises). More detailed:
