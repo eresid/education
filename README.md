@@ -1,6 +1,6 @@
 ![OmiSoft](/images/header.png)
 
-Knowledge base of [OmiSoft.net](https://omisoft.net).  
+Knowledge base of [OmiSoft.net](https://omisoft.net/?utm_source=github&utm_medium=social).  
   
 [Ukrainian 🇺🇦 version](./README_UKR.md)
 
