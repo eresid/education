@@ -65,6 +65,7 @@
 6) Java 8 Concurrency Tutorial ([1](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/), [2](http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/), [3](http://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)) (eng)
 7) [Java Concurrency / Multithreading Basics](https://www.callicoder.com/java-concurrency-multithreading-basics/) (eng)
 8) [Multithreading in Java](https://beginnersbook.com/2013/03/multithreading-in-java/) (eng)
+9) [Відеокурс] [Уроки Java для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFW2xXiWSfjT7hEdOUZHVNbK) (rus)
 
 ## Spring
 1) Spring in Action ([eng (2014)](https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X)) ([rus (2011)](https://www.ozon.ru/context/detail/id/31239365/)) ([code](https://manning-content.s3.amazonaws.com/download/9/ef4e0ef-b7bd-4ab8-857d-eb635d18d425/SpringiA4_SourceCode.zip))
