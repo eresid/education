@@ -162,6 +162,10 @@
 2) [responsivedesign.is](http://ami.responsivedesign.is/)
 3) [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
 
+## QA & Automation
+1) [Selenium WebDriver](https://kreisfahrer.gitbooks.io/selenium-webdriver/content/index.html) (rus)
+2) [Відеокурс][Selenium WebDriver](https://www.youtube.com/playlist?list=PL3ii_uuRDuQKXRyLxUNqLESbmNEA_ma7J) (rus)
+
 ## Git
 1) [Офіційна документація](https://git-scm.com/book/uk/v2/) (ukr)
 2) [GitHowTo](https://githowto.com/uk) (ukr)
