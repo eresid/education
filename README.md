@@ -104,6 +104,9 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 4) [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 5) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/)
 
+#### Online Editors
+1) [Online SQLite editor](https://sqliteonline.com/)
+
 ### Spring
 
 1) [Spring in Action (2018)](https://www.manning.com/books/spring-in-action-fifth-edition)
