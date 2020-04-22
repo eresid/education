@@ -153,6 +153,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 3) [JavaScript - Mozilla](https://developer.mozilla.org/en/docs/Web/JavaScript)
 4) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 5) [JavaScript Weekly](https://javascriptweekly.com/)
+6) [Airbnb JavaScript Code Conventions](https://github.com/airbnb/javascript)
 
 ### ReactJS
 
