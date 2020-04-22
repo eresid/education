@@ -133,7 +133,7 @@
 7) [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (eng)
 8) [Секреты JavaScript-кухни: специи](https://habr.com/company/ruvds/blog/415059/) (rus)
 9) [Learn RxJS](https://www.learnrxjs.io/) (eng)
-10) [Airbnb JavaScript Code Conventions](https://github.com/airbnb/javascript) (eng)
+10) [Керівництво по стилю React/JSX від Airbnb](https://github.com/ivanzusko/javascript) (ukr)
 
 ### ReactJS
 1) [Стаття] [Основы React: всё, что нужно знать для начала работы](https://habr.com/ru/company/ruvds/blog/343022/) (rus)
@@ -144,6 +144,10 @@
 6) [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd) (eng)
 7) [React Training](https://reacttraining.com/react-router/web/example/basic) (eng)
 8) [ReactJS Tutorial - Tutorials Point](https://www.tutorialspoint.com/reactjs/index.htm) (eng)
+
+### React Native
+
+1) [Відеокурс] [Відео курсів 7th Apiko Intensive (React, Mobx, React Native)](https://dou.ua/forums/topic/29892/) (ukr)
 
 ### Node.js
 1) [Уроки Node JS и Express для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet) (rus)
