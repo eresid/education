@@ -94,6 +94,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 3) [Try Kotlin](https://try.kotlinlang.org/)
 4) [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 5) [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+6) [Kotlin Style Guide](https://developer.android.com/kotlin/style-guide)
 
 
 ### SQL
