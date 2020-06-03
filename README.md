@@ -41,6 +41,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 5) [Video course] [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 6) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (code)
 7) [Airbnb Swift Code Conventions](https://github.com/airbnb/swift)
+8) [A Practical SwiftUI Kickstart](https://matteomanferdini.com/swiftui/)
 
 ### Swift Compilers
 
