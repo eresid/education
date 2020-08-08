@@ -137,6 +137,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 1) [FrontEnd Focus](https://frontendfoc.us/)
 2) [Node Weekly](https://nodeweekly.com/)
 3) [Kent C. Dodds Blog](https://kentcdodds.com/)
+4) [Web Skills](https://andreasbm.github.io/web-skills/)
 
 ### HTML
 
