@@ -139,6 +139,9 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 3) [Kent C. Dodds Blog](https://kentcdodds.com/)
 4) [Web Skills](https://andreasbm.github.io/web-skills/)
 
+### Online Editors
+1) [PlayCode.io](https://playcode.io/)
+
 ### HTML
 
 1) [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp)
