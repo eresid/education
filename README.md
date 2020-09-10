@@ -171,6 +171,11 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 6) [React & ReactNative Weekly](https://react.statuscode.com/)
 7) [React Bits](https://vasanthk.gitbooks.io/react-bits/)
 
+### Node.js
+
+1) [Sequelize ORM](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server
+2) [Knex.js](http://knexjs.org/) - is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift
+
 ### React Native
 
 1) [React Native Weekly](https://reactnative.cc/)
