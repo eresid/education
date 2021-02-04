@@ -42,6 +42,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 6) [Learning Swift. Reusable apps code](https://github.com/btrn/Swift) (code)
 7) [Airbnb Swift Code Conventions](https://github.com/airbnb/swift)
 8) [A Practical SwiftUI Kickstart](https://matteomanferdini.com/swiftui/)
+9) [iOS study DataSource](https://www.notion.so/iOS-study-DataSource-by-Slava-Slutsker-3f79ba2c51ce45e9b32eae4666585e9d)
 
 ### Swift Compilers
 
