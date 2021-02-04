@@ -171,6 +171,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 5) [Overreacted - React Tutorials](https://overreacted.io/)
 6) [React & ReactNative Weekly](https://react.statuscode.com/)
 7) [React Bits](https://vasanthk.gitbooks.io/react-bits/)
+8) [React Hook Form](https://react-hook-form.com/)
 
 ### Node.js
 
