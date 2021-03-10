@@ -181,6 +181,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 ### React Native
 
 1) [React Native Weekly](https://reactnative.cc/)
+2) [Video course] [CS50's Mobile App Development with React Native 2018](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 
 ### Useful resources
 
