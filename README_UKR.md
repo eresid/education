@@ -58,6 +58,7 @@
 
 ## Flutter
 1) [Введение в Flutter](https://metanit.com/dart/flutter/1.1.php) (rus)
+2) [CodeandArt - Flutter & Dart уроки](https://www.youtube.com/c/codeandartmain/playlists) (rus)
 
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([eng (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([rus (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([code](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
