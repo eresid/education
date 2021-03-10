@@ -56,6 +56,9 @@
 8) [Kotlin By Example](http://kotlinbyexample.org/) (eng)
 9) [Kotlin Language Documentation](https://jetbrains.gitbooks.io/kotlin-reference-for-kindle/content/) (eng)
 
+## Flutter
+1) [Введение в Flutter](https://metanit.com/dart/flutter/1.1.php) (rus)
+
 ## Java
 1) Herbert Schildt — Java: The Complete Reference: Edition 9 ([eng (2014)](https://play.google.com/store/books/details/Herbert_Schildt_Java_The_Complete_Reference_Ninth?id=fY-bAgAAQBAJ)) ([rus (2011)](https://rozetka.com.ua/ua/12510850/p12510850/)) ([code](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode))
 2) Joshua Bloch - Effective Java: Edition 2 (2008) ([eng](https://play.google.com/store/books/details/Joshua_Bloch_Effective_Java?id=ka2VUBqHiWkC)) ([rus](https://rozetka.com.ua/ua/21423354/p21423354/)) ([code](https://github.com/marhan/effective-java-examples))
