@@ -59,6 +59,7 @@ You are always welcome to create [Pull Request](https://github.com/eresid/educat
 5) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers)
 6) [Article] [Multi-Threading Like a Boss in Android With RxJava 2](https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)
 7) [Google Codelabs](https://codelabs.developers.google.com/)
+8) [Book] Professional Android 4 ([pdf](/books/Meier_R_Lake_I_Professional_Android_2018.pdf?raw=true)/[epub](/books/Meier_R_Lake_I_Professional_Android_2018.epub?raw=true)) (eng)
 
 ## Architecture and Desgin Patterns
 
