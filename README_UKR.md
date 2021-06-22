@@ -44,6 +44,7 @@
 6) [Android Developers. YouTube Official Channel](https://www.youtube.com/user/androiddevelopers) (eng)
 7) [Стаття] Multi-Threading Like a Boss in Android With RxJava 2 ([eng](https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)) ([rus](https://habrahabr.ru/post/344016/))
 8) [Google Codelabs](https://codelabs.developers.google.com/) (eng)
+9) [Книга] Professional Android 4 ([pdf](/books/Meier_R_Lake_I_Professional_Android_2018.pdf?raw=true)/[epub](/books/Meier_R_Lake_I_Professional_Android_2018.epub?raw=true))(eng)
 
 ## Kotlin
 1) [Руководство по языку Kotlin](https://kotlinlang.ru/) (rus)
