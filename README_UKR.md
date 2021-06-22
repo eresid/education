@@ -101,6 +101,9 @@
 4) [SQL Tutorial - Tutorials Point](https://www.tutorialspoint.com/sql/) (eng)
 5) [Работа с PostgreSQL. Настройка и масштабирование (2017)](http://postgresql.leopard.in.ua/) (rus)
 
+## MongoDB
+1) [Онлайн-руководство по MongoDB](https://metanit.com/nosql/mongodb/) (rus)
+
 ## Архітектура та Шаблони проектування
 1) Robert C. Martin - Clean Code (2008) ([eng](https://play.google.com/store/books/details?id=_i6bDeoCQzsC)) ([rus](https://rozetka.com.ua/ua/6505018/p6505018/))
 2)  E.Freeman, E.Robson, B.Bates, K.Sierra - Head First Design Patterns (2004) ([eng](https://play.google.com/store/books/details/Eric_Freeman_Head_First_Design_Patterns?id=NXIrAQAAQBAJ)) ([rus](https://rozetka.com.ua/ua/25950041/p25950041/))
